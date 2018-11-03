@@ -1,0 +1,26 @@
+## Interface: 60200
+## X-BigfootType: 1
+## X-BigfootDesc: 鲜血护盾追踪器是一个鲜血死亡骑士坦克的插件，它能追踪鲜血护盾和追踪死亡打击预计恢复的治疗。
+## Title: Blood Shield Tracker
+## Notes: Tracks the Blood Shield for Death Knights.
+## Author: Talryn, kagaro
+## Version: 6.2.0
+## SavedVariables: BloodShieldTrackerDB
+## OptionalDeps: Ace3, LibDataBroker-1.1, LibDBIcon-1.0, LibQTip-1.0, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets, CompactRunes, Tukui, ElvUI
+## X-Curse-Packaged-Version: 6.2.0
+## X-Curse-Project-Name: Blood Shield Tracker
+## X-Curse-Project-ID: blood-shield-tracker
+## X-Curse-Repository-ID: wow/blood-shield-tracker/mainline
+
+embeds.xml
+
+locale.xml
+
+Core.lua
+Constants.lua
+Bar.lua
+BloodShieldTracker.lua
+Options.lua
+BoneWallTracker.lua
+HealthBar.lua
+Migration.lua

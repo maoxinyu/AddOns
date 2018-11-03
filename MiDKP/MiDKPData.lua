@@ -1,0 +1,3 @@
+
+MiDKPData = {};
+MiDKPData["dkp"] = {};

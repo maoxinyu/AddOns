@@ -1,0 +1,23 @@
+## Interface: 60200
+## X-BigfootType: 1
+## X-BigfootDesc: Healium快捷的治疗助手插件，在界面上显示小队、宠物、主坦克、团队、好友的血条，并在每个名字的右侧显示快捷动作条，不用切换目标，直接点击按钮即可实现快捷施法。
+## Title: Healium
+## Notes: A healing user-interface addon that provides up to 15 customizable buttons next to each party or raid members name.  Based on FB Healbox.
+## SavedVariables: HealiumGlobal
+## SavedVariablesPerCharacter: Healium
+## X-Curse-Packaged-Version: v 2.3.2
+## X-Curse-Project-Name: Healium
+## X-Curse-Project-ID: healium
+## X-Curse-Repository-ID: wow/healium/mainline
+UIDropDownMenuTemplates.xml
+UIDropDownMenu.lua
+HealiumHealButton.lua
+HealiumSpells.lua
+HealiumSlashCommands.lua
+HealiumConfigPanel.lua
+HealiumMinimapButton.lua
+Healium.lua
+HealiumMenu.lua
+Healium.xml
+HealiumUnitFrames.xml
+HealiumUnitFrames.lua

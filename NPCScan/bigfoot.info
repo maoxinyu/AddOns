@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AddOnList version="1.0" url="http://wowui.178.com/" purl="http://wowui.178.com/">
+    <AddOn displayName="NPCscan稀有怪扫描" img="/data/wow/231/ui_logo.jpg" info="ui/231" name="NPCscan稀有怪扫描" package="down/231/12831/NPCScan-8.0_.1_.10_.zip" update="2018-09-03" version="8.0.1.10" />
+</AddOnList>

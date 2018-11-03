@@ -1,0 +1,61 @@
+## Interface: 60100
+## X-BigfootType: 1
+## X-BigfootDesc: |cFF4488FF此模块依赖于|r
+
+## Author : Angayelle of Nordrassil
+
+## Title: CombustionHelper 3.5.5
+
+## Notes: An addon for optimized use of the Combustion Talent for mages
+
+## Dependencies:
+
+## SavedVariables: combusettingstable, CombuCautlevelvar, CombuCautscalevar, CombuCautalphavar, CombuCautlockvar, CombuCauthidevar, CombuCautTimevar, CombuCautChatRaidvar, CombuCautChatSayvar, CombuCautChatYellvar, CombuCautAnnouncevar, CombuCautChatAltvar, CombuCautAnnounceAltvar, CombuCautChatAlonevar,CombuCautenablevar, combumbtrackersettingstable
+
+## version: 3.5.5
+
+libs\LibStub\LibStub.lua
+
+libs\LibTransition-1.0\LibTransition-1.0.lua
+
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+
+libs\LibSharedMedia-3.0\lib.xml
+
+Localization.en.lua
+
+Localization.de.lua
+
+Localization.fr.lua
+
+Localization.tw.lua
+
+Localization.kr.lua
+
+Localization.cn.lua
+
+Localization.it.lua
+
+CombustionHelper.lua
+
+Combuoptions.xml
+
+CombustionHelper.xml
+
+CauterizeCooldown\CauterizeCooldown.lua
+
+CauterizeCooldown\CauterizeCooldown.xml
+
+CauterizeCooldown\CauterizeCooldownOptions.xml
+
+MageBombTracker\MBTLocalization.en.lua
+
+MageBombTracker\MBTLocalization.fr.lua
+
+MageBombTracker\MBTLocalization.cn.lua
+
+MageBombTracker\MageBombTracker.lua
+
+MageBombTracker\MageBombTrackeroptions.xml
+
+MageBombTracker\MageBombTracker.xml

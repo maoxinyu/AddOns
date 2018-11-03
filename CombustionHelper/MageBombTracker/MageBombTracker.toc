@@ -1,0 +1,33 @@
+## Interface: 60000
+## X-BigfootType: 1
+## X-BigfootDesc: |cFF4488FF此模块依赖于|r
+
+## Author : Angayelle of Nordrassil
+
+## Title: MageBombTracker 1.1.2
+
+## Notes: An addon for tracking Mage bombs
+
+## Dependencies:
+
+## SavedVariables: combumbtrackersettingstable
+
+## version: 1.1.2
+
+libs\LibStub\LibStub.lua
+
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+
+libs\LibSharedMedia-3.0\lib.xml
+
+MBTLocalization.en.lua
+
+MBTLocalization.fr.lua
+
+MBTLocalization.cn.lua
+
+MageBombTracker.lua
+
+MageBombTrackeroptions.xml
+
+MageBombTracker.xml

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AddOnList version="1.0" url="http://wowui.178.com/" purl="http://wowui.178.com/">
+    <AddOn name="BloodShieldTracker鲜血护盾监视插件" displayName="BloodShieldTracker鲜血护盾监视插件" img="/data/wow/686/ui_logo.jpg" info="ui/686" package="down/686/10302/BloodShieldTracker-6.2_.0_.zip" update="2015-06-25" version="6.2.0" />
+</AddOnList>

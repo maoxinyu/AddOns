@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AddOnList version="1.0" url="http://wowui.178.com/" purl="http://wowui.178.com/">
+    <AddOn name="德拉诺地图宝箱插件" displayName="德拉诺地图宝箱插件" img="/data/wow/809/ui_logo.jpg" info="ui/809" package="down/809/10553/HandyNotes_DraenorTreasures_v1.14a_.zip" update="2015-07-08" version="v1.14a" />
+</AddOnList>

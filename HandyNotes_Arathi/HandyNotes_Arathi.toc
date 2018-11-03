@@ -1,0 +1,19 @@
+## Interface: 80000
+## Title: HandyNotes_Arathi
+## Title-zhCN: [大脚][集]地图标记_阿拉希
+## Title-zhTW: [大腳][集]地圖標記_阿拉希
+## Notes-zhCN: |cff00ff00HandyNotes_Arathi|r
+## Notes-zhTW: |cff00ff00HandyNotes_Arathi|r
+## Version: 0.4.0
+## Notes: Arathi Rares
+## OptionalDeps: Ace3
+## RequiredDeps: HandyNotes
+## X-Embeds: Ace3
+## SavedVariables: HandyNotesArathiDB
+## X-Revision: BigFoot
+
+localization\enUS.lua
+#localization\zhCN.lua
+#localization\zhTW.lua
+
+HandyNotes_Arathi.lua

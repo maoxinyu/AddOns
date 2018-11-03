@@ -1,0 +1,12 @@
+tag 6.2.0
+c46b914ae21521db0fd8fb3d3b48b6829fa6e801
+Talryn <git@talryn.sent.com>
+2015-06-23 01:42:53 -0400
+
+Tag as 6.2.0.
+
+
+--------------------
+
+Talryn:
+	- Update TOC for 6.2.

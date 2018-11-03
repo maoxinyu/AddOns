@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AddOnList version="1.0" url="http://wowui.178.com/" purl="http://wowui.178.com/">
+    <AddOn displayName="Collectinator坐骑及宠物收集信息" img="/data/wow/224/ui_logo.jpg" info="ui/224" name="Collectinator坐骑及宠物收集信息" package="down/224/12080/Collectinator-7.2_.0_.3_.zip" update="2017-06-05" version="7.2.0.3" />
+</AddOnList>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AddOnList version="1.0" url="http://wowui.178.com/" purl="http://wowui.178.com/">
+    <AddOn displayName="SilverDragon稀有怪追踪提醒" img="/data/wow/354/ui_logo.jpg" info="ui/354" name="SilverDragon稀有怪追踪提醒" package="down/354/12804/SilverDragon-v4.0_.13_.zip" update="2018-08-24" version="v4.0.13" />
+</AddOnList>
